@@ -32,3 +32,12 @@ To start with the project, set the environment variables and run the main classi
 
 ```bash
 python classify.py 
+
+```
+### Results 
+
+Inference Time on CPU: 
+![image](https://github.com/PriyanshBhatnagar/GPU_accelerated_BERT/assets/110881708/494750ea-8d76-4c61-b6b7-9e54589260ff)
+
+Inference Time on GPU:
+![image](https://github.com/PriyanshBhatnagar/GPU_accelerated_BERT/assets/110881708/91b1a8b6-ebed-4d2c-a388-981f72b0c082)
