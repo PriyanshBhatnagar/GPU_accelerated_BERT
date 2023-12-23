@@ -36,8 +36,6 @@ python classify.py
 ```
 ### Results 
 
-Inference Time on CPU: 
-![image](https://github.com/PriyanshBhatnagar/GPU_accelerated_BERT/assets/110881708/494750ea-8d76-4c61-b6b7-9e54589260ff)
+Inference Time on CPU: 1843 ms
 
-Inference Time on GPU:
-![image](https://github.com/PriyanshBhatnagar/GPU_accelerated_BERT/assets/110881708/91b1a8b6-ebed-4d2c-a388-981f72b0c082)
+Inference Time on GPU: 1414 ms
